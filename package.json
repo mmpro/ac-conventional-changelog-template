@@ -1,0 +1,10 @@
+{
+  "name": "ac-conventional-changelog",
+  "version": "0.0.1",
+  "description": "Conventional changelog adjustments for AdmiralCloud.",
+  "author": "Mark Poepping <mark.poepping@mmpro.de>",
+  "license": "MIT",
+  "dependencies": {
+    "dateformat": "^2.0.0"
+  }
+}
